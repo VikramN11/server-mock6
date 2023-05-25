@@ -1,6 +1,11 @@
 {
     "users": [
-      { "id": 1, "username" : "coreyschafer", "email": "corey@gamil.com", "password": "corey123" }
+      {
+        "username" : "Prasad",
+        "email" : "prasad@gmail.com",
+        "password" : "Prasad@123",
+        "doctor" : false
+      }
     ],
     "movies": [
       {
