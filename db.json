@@ -2,25 +2,25 @@
     "users": [
       {
         "id": 1,
-        "name": "jack",
-        "email": "jack123@gmail.com",
-        "age": 23,
-        "occupation": "student",
-        "address": "India",
-        "password": "jack@123",
-        "gender": "male",
-        "mobile": 9635698420
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "hourly_rate": 25,
+        "profile_picture": "profile1.jpg",
+        "isBooked" : false
       },
       {
-        "name": "anna",
-        "email": "ann123@gmail.com",
-        "age": 23,
-        "occupation": "student",
-        "address": "us",
-        "password": "anna@123",
-        "gender": "female",
-        "mobile": 1125369897,
-        "id": 2
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "password": "password",
+        "profession": "Graphic Designer",
+        "skills": ["Photoshop", "Illustrator"],
+        "hourly_rate": 30,
+        "profile_picture": "profile2.jpg",
+        "isBooked" : true
       }
     ]
     
