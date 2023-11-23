@@ -21,6 +21,17 @@
         "hourly_rate": 30,
         "profile_picture": "profile2.jpg",
         "isBooked" : true
+      },
+      {
+        "name": "Bharat",
+        "email": "bharat@gmail.com",
+        "password": "Bharat",
+        "profession": "Graphic Designer",
+        "skill": ["UI", "UX", "HTML", "CSS"],
+        "hourly_rate": "22",
+        "profile_picture": "C:\\fakepath\\Screenshot (219).png",
+        "isBooked": false,
+        "id": 3
       }
     ]
     
